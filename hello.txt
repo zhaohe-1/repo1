@@ -2,3 +2,5 @@ ssh-keygen -t rsa
 
 在用户里面找到.ssh生成密钥对
 
+pub是公钥匙
+
